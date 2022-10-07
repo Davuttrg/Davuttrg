@@ -6,12 +6,11 @@
 <ul>
   <li display="flex" align-items="center" >
     <img align="center"  src="https://img.icons8.com/color/48/undefined/gmail-new.png" /> 
-    <div>turugdavut@gmail.com</div>
-     <a href="https://www.linkedin.com/in/davutturug/">www.linkedin.com/in/davutturug</a>
+        <a href= "mailto:turugdavut@gmail.com">turugdavut@gmail.com</a>
   </li>
    <li display="flex" align-items="center" >
     <img align="center"  src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" /> 
-    <a href= "mailto:turugdavut@gmail.com">turugdavut@gmail.com</a>
+       <a href="https://www.linkedin.com/in/davutturug/">www.linkedin.com/in/davutturug</a>
   </li>
 </ul>
 
