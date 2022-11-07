@@ -5,11 +5,11 @@
 - 📫 How to reach me:
 
   <div display="flex" align-items="center" >
-    <img width="20" height="20" align="center"  src="https://img.icons8.com/color/48/undefined/gmail-new.png" /> 
+    <img width="25" height="25" align="center"  src="https://img.icons8.com/color/48/undefined/gmail-new.png" /> 
         <a target="_blank" href="mailto:turugdavut@gmail.com">turugdavut@gmail.com</a>
   </div>
    <div display="flex" align-items="center" >
-    <img width="20" height="20" align="center"  src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" /> 
+    <img width="25" height="25" align="center"  src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" /> 
        <a target="_blank" href="https://www.linkedin.com/in/davutturug/">www.linkedin.com/in/davutturug</a>
   </div>
 
