@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 
   <div display="flex" align-items="center" >
-    <img align="center"  src="https://img.icons8.com/color/48/undefined/gmail-new.png" /> 
+    <img width="20" height="20" align="center"  src="https://img.icons8.com/color/48/undefined/gmail-new.png" /> 
         <a target="_blank" href="mailto:turugdavut@gmail.com">turugdavut@gmail.com</a>
   </div>
    <div display="flex" align-items="center" >
@@ -14,6 +14,6 @@
   </div>
 
 <p align="center">
-<img width="20" height="20" src="https://komarev.com/ghpvc/?username=Davuttrg&label=Profile Views&color=grey" />
+<img  src="https://komarev.com/ghpvc/?username=Davuttrg&label=Profile Views&color=grey" />
 </p>
 
